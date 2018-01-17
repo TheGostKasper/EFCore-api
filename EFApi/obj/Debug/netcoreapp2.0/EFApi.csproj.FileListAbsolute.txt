@@ -1,0 +1,13 @@
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\bin\Debug\netcoreapp2.0\EFApi.deps.json
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\bin\Debug\netcoreapp2.0\EFApi.runtimeconfig.json
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\bin\Debug\netcoreapp2.0\EFApi.runtimeconfig.dev.json
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\bin\Debug\netcoreapp2.0\EFApi.dll
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\bin\Debug\netcoreapp2.0\EFApi.pdb
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\bin\Debug\netcoreapp2.0\EFContext.dll
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\bin\Debug\netcoreapp2.0\EFContext.pdb
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\obj\Debug\netcoreapp2.0\EFApi.csprojResolveAssemblyReference.cache
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\obj\Debug\netcoreapp2.0\EFApi.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\obj\Debug\netcoreapp2.0\EFApi.AssemblyInfoInputs.cache
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\obj\Debug\netcoreapp2.0\EFApi.AssemblyInfo.cs
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\obj\Debug\netcoreapp2.0\EFApi.dll
+C:\Users\Xander\source\repos\ClassLibrary1\EFApi\obj\Debug\netcoreapp2.0\EFApi.pdb

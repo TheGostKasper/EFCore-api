@@ -1,0 +1,9 @@
+C:\Users\Xander\source\repos\ClassLibrary1\EFContext\bin\Debug\netcoreapp2.0\EFContext.deps.json
+C:\Users\Xander\source\repos\ClassLibrary1\EFContext\bin\Debug\netcoreapp2.0\EFContext.dll
+C:\Users\Xander\source\repos\ClassLibrary1\EFContext\bin\Debug\netcoreapp2.0\EFContext.pdb
+C:\Users\Xander\source\repos\ClassLibrary1\EFContext\obj\Debug\netcoreapp2.0\EFContext.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\ClassLibrary1\EFContext\obj\Debug\netcoreapp2.0\EFContext.AssemblyInfoInputs.cache
+C:\Users\Xander\source\repos\ClassLibrary1\EFContext\obj\Debug\netcoreapp2.0\EFContext.AssemblyInfo.cs
+C:\Users\Xander\source\repos\ClassLibrary1\EFContext\obj\Debug\netcoreapp2.0\EFContext.dll
+C:\Users\Xander\source\repos\ClassLibrary1\EFContext\obj\Debug\netcoreapp2.0\EFContext.pdb
+C:\Users\Xander\source\repos\ClassLibrary1\EFContext\obj\Debug\netcoreapp2.0\EFContext.csprojResolveAssemblyReference.cache

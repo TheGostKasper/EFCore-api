@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27309.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFContext", "EFContext\EFContext.csproj", "{2E52FF90-9F35-410C-8006-F8C2A5AECF37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFApi", "EFApi\EFApi.csproj", "{7B51DB33-0132-4590-8BD9-806E23C383A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E52FF90-9F35-410C-8006-F8C2A5AECF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E52FF90-9F35-410C-8006-F8C2A5AECF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E52FF90-9F35-410C-8006-F8C2A5AECF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E52FF90-9F35-410C-8006-F8C2A5AECF37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B51DB33-0132-4590-8BD9-806E23C383A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B51DB33-0132-4590-8BD9-806E23C383A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B51DB33-0132-4590-8BD9-806E23C383A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B51DB33-0132-4590-8BD9-806E23C383A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5C0E46A-5BC6-4D9C-9CB0-7185A93E9B76}
+	EndGlobalSection
+EndGlobal
